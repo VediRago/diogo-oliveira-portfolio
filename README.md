@@ -1,94 +1,123 @@
 # Diogo Oliveira
 
-## Creative Narrative Designer & Interactive Storyteller
+## Narrative Designer & Interactive Storyteller
 
-I create layered narratives focused on emotional storytelling, evolving interpretation, and meaningful discovery.
+I build layered narrative experiences focused on emotional storytelling, player/reader perception, world pressure, and meaningful discovery.
 
-My work explores how character, worldbuilding, and narrative structure can create experiences that reward attention without relying on direct exposition.
+My work explores how character, worldbuilding, structure, and interaction can make an audience feel something first, then understand more later.
 
----
-
-## Areas of Interest
-
-- Narrative Design
-- Interactive Storytelling
-- Worldbuilding
-- Story Architecture
-- Narrative Systems
-- Visual Storytelling
-- Twine
-- Interactive Fiction
-- Game Narrative
-- Transmedia Storytelling
+This portfolio is built from self-directed projects, prototypes, and case studies. It is designed to show how I think, document, iterate, and turn narrative ideas into game-facing structure.
 
 ---
 
-## Featured Projects
+## Portfolio Highlights
 
-### Fragments
+### 1. Fragments — Layered Narrative System
 
-A large-scale narrative project exploring layered storytelling, emotional perception, recurring outcomes, and hidden structure.
+A case study about mystery structure, emotional payoff, delayed recognition, and reader belief evolution.
 
-**Focus**
+**Demonstrates:**
 
 - Narrative architecture
-- Reader belief evolution
+- Misdirection without cheating the audience
 - Bridge systems
-- Emotional pacing
-- Worldbuilding
+- Long-form emotional payoff
+- Reader/player perception design
 
-[Project overview](projects/fragments.md)  
-[Case study: Layered Narrative System](case-studies/fragments-layered-narrative.md)
+[Read the case study](case-studies/fragments-layered-narrative.md)
 
 ---
 
-### NOEME
+### 2. NOEME — Visual Narrative Teaser
 
-A visual narrative teaser combining typography, animation, image composition, and interactive presentation.
+A short Twine / HTML / CSS visual teaser using image layering, typography, fade timing, blur, and rhythm to communicate mood before explanation.
 
-**Focus**
+**Demonstrates:**
 
-- Mood
 - Visual storytelling
-- Narrative presentation
-- Interactive implementation
-- Timing and atmosphere
+- Twine presentation
+- Cinematic pacing
+- Mood prototyping
+- Iterative timing work
 
-[Case study: NOEME Teaser](case-studies/noeme-teaser.md)
-
----
-
-### Interactive Narrative Experiments
-
-Small prototypes exploring pacing, player perception, emotional delivery, and narrative structure.
-
-[Project notes](projects/interactive-narrative-experiments.md)
+[Read the case study](case-studies/noeme-teaser.md)
 
 ---
 
-## Narrative Philosophy
+### 3. Interactive Narrative Experiments
 
-Stories are experienced emotionally before they are understood intellectually.
+Small experiments focused on non-choice-based interaction, pacing, presentation, controlled information flow, and emotional delivery.
 
-My work focuses on:
+**Demonstrates:**
+
+- Interactive thinking
+- Narrative prototyping
+- Layout and timing as story tools
+- Rapid self-directed learning
+
+[View project notes](projects/interactive-narrative-experiments.md)
+
+---
+
+### 4. Fragments Project Overview
+
+A larger story world used to test emotional continuity, recurring images, hidden structure, and narrative systems documentation.
+
+**Demonstrates:**
+
+- Character-driven worldbuilding
+- Story architecture
+- Motif tracking
+- Structural documentation
+- Long-form creative development
+
+[View project overview](projects/fragments.md)
+
+---
+
+## Narrative Design Approach
+
+My strongest interest is how meaning changes over time.
+
+I like designing stories where early details are emotionally clear before they are fully explained. A clue should not exist only to prove the writer is clever. It should matter as a feeling, a behavior, a place, a wound, or a character choice before it becomes part of a larger structure.
+
+Core principles:
 
 - People before systems
 - Discovery over exposition
-- Meaning through recognition
-- Layered interpretation
-- Emotional continuity
-- Reader/player belief evolution
+- Recognition over explanation
+- Emotional continuity over random twists
+- World pressure over disconnected lore
+- Consequences that feel earned
+
+---
+
+## Skills Shown In This Portfolio
+
+- Narrative design documentation
+- Story architecture
+- Worldbuilding from character pressure
+- Mystery and reveal structure
+- Emotional pacing
+- Reader/player perception design
+- Twine prototyping
+- HTML / CSS presentation experiments
+- Markdown documentation
+- Visual storytelling and image composition
+
+[View skills page](skills.md)
 
 ---
 
 ## Current Tools
 
-- GitHub
 - Twine
+- HTML / CSS
 - Markdown
+- GitHub
 - Photopea
-- Blender (learning)
-- Unreal Engine (learning)
+- Blender, learning
+- Unreal Engine, learning
 
 ---
 
@@ -102,7 +131,7 @@ My work focuses on:
 - [x] Skills page
 - [ ] Writing samples
 - [ ] Playable Twine prototype link
-- [ ] Visual development / storyboard work
+- [ ] Visual development / storyboard page
 
 ---
 
