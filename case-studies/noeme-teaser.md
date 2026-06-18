@@ -1,30 +1,32 @@
 # Case Study: NOEME Teaser
 
-## Overview
+## Summary
 
-NOEME is a short visual narrative teaser built as an experiment in mood, timing, typography, image layering, and interactive presentation.
+**NOEME** is a short visual narrative teaser built as an experiment in mood, timing, typography, image layering, and interactive presentation.
 
-The teaser was created using Twine, HTML, CSS, and image editing workflows.
+The sequence was created using Twine, HTML, CSS, and image editing workflows. The goal was to communicate tone before explanation: identity, memory, transformation, and instability shown through rhythm rather than exposition.
 
-The goal was to create a compact emotional sequence that communicates tone before explanation.
+**Role:** Creator, visual narrative designer, Twine / CSS implementer  
+**Format:** Short interactive visual teaser  
+**Tools:** Twine, HTML, CSS, image editing  
+**Focus:** Mood, pacing, visual storytelling, presentation, iteration
 
 ---
 
 ## Design Goal
 
-The teaser was designed to feel mysterious, intimate, and unstable.
+The teaser needed to feel:
 
-Instead of explaining the story, it uses:
+- intimate
+- mysterious
+- unstable
+- emotional
+- controlled
+- cinematic
 
-- faces
-- darkness
-- typography
-- eye color
-- fade timing
-- music / rhythm
-- visual overlap
+Instead of explaining the story, it uses faces, darkness, eye color, typography, fade timing, blur, music/rhythm, and visual overlap to create a first emotional impression.
 
-The purpose is to make the viewer feel that identity, memory, and transformation are unstable before they understand why.
+The goal was for the viewer to feel that something is changing before they understand what the change means.
 
 ---
 
@@ -32,11 +34,9 @@ The purpose is to make the viewer feel that identity, memory, and transformation
 
 The sequence uses visual storytelling rather than exposition.
 
-The words NOEME and PROTOTYPE appear as part of the emotional rhythm of the scene.
+The words **NOEME** and **PROTOTYPE** are not treated as normal title cards. They appear, hold, glow, blur, and disappear as part of the transformation.
 
-The letters do not simply present information.
-
-They behave like part of the transformation.
+The letters behave like part of the scene.
 
 The viewer receives atmosphere first and meaning later.
 
@@ -46,50 +46,58 @@ The viewer receives atmosphere first and meaning later.
 
 The prototype involved:
 
-- Twine structure
+- Twine passage structure
 - HTML layout
 - CSS animation
-- image layering
+- layered images
 - opacity timing
 - blur effects
-- synchronized typography
-- repeated iteration on pacing
+- letter-by-letter title timing
+- visual overlap
+- repeated pacing iteration
 
-Small timing changes had a major effect on the emotional result.
+Small timing changes had a major effect on the emotional result. A delay of less than a second could make the same image feel rushed, calm, ominous, or broken.
 
-This made the teaser a useful exercise in how visual rhythm can support narrative meaning.
-
----
-
-## Iteration Notes
-
-The project required many small adjustments:
-
-- When each face appears
-- When text becomes readable
-- How long each word remains visible
-- Which letters disappear first
-- How much blur is present
-- How eye changes align with the sequence
-- How to avoid distracting visual loops
-
-The main lesson was that timing is narrative.
-
-A delay of less than a second can change how an image feels.
+That made the teaser useful as a practical test of how timing can become narrative.
 
 ---
 
-## Lessons Learned
+## Iteration Problems Solved
 
-The teaser helped develop practical understanding of:
+The sequence required many small adjustments:
 
-- visual pacing
-- atmospheric storytelling
-- interactive presentation
-- typography as narrative rhythm
-- symbolic design
-- Twine as a presentation tool
-- iterative problem solving
+- making one face appear before the other
+- preventing visual loops from distracting the viewer
+- controlling when text becomes readable
+- making **NOEME** hold long enough to feel important
+- making **PROTOTYPE** appear and vanish in a deliberate rhythm
+- making the final letters disappear with emotional weight
+- balancing blur, glow, and readability
+- matching image composition so the faces felt intentionally connected
+
+The main lesson was simple:
+
+```text
+Timing is narrative.
+```
+
+---
+
+## Design Outcome
+
+The final teaser functions as a compact tone piece.
+
+It does not explain the full project. It shows the intended emotional language:
+
+- layered identity
+- transformation
+- instability
+- recognition
+- darkness covering the face
+- typography as rhythm
+- atmosphere before exposition
+
+This makes it useful as a portfolio sample because it shows narrative thinking through presentation, not only written explanation.
 
 ---
 
@@ -97,9 +105,20 @@ The teaser helped develop practical understanding of:
 
 This case study demonstrates:
 
-- Ability to prototype mood and narrative presentation
-- Use of Twine beyond simple text passages
-- Visual storytelling instincts
-- Timing and iteration
-- Self-directed technical learning
-- Translating story concepts into an audiovisual sequence
+- visual storytelling instincts
+- Twine used beyond simple branching text
+- CSS animation for narrative effect
+- mood prototyping
+- timing and iteration
+- self-directed technical learning
+- ability to translate story concepts into an audiovisual sequence
+
+---
+
+## Lessons Learned
+
+The teaser helped me understand that presentation details can carry story meaning.
+
+A fade is not only a fade. A delay is not only a delay. A letter disappearing first or last changes how the viewer reads the moment.
+
+For narrative design, that matters because player or viewer emotion is shaped by timing, rhythm, and controlled attention, not only by dialogue or plot.
