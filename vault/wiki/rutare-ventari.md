@@ -36,25 +36,11 @@ He does not become a rebel.
 
 Instead, he survives through records, procedure, silence, and small acts of order.
 
-A record can be completed.
-
-A list can be ordered.
-
-A count can be corrected.
-
-A permission can be filed.
-
 Procedure lets Rutare move without facing the full truth directly.
 
 His silence helps [Ermerus Ventari](ermerus-ventari.md) protect the public lie, but his need to record may also preserve the earliest contradictions inside it.
 
-The official story survives because Ermerus controls meaning.
-
-The hidden truth may survive because Rutare cannot stop recording.
-
 Rutare later confesses pieces of the truth to [Teresta Ventari](teresta-ventari.md), not as strategy, but because pressure escapes through the one person who makes him feel safe enough to speak.
-
-His descendants become tied to administration, records, permissions, civic machinery, and procedural authority.
 
 If Rutare cannot rule through presence, his line learns to rule through systems.
 
