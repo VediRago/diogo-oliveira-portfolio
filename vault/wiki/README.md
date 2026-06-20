@@ -21,16 +21,16 @@ The goal is depth through links, not long lore dumps.
 - [Teresta Ventari](teresta-ventari.md)
 - [Regulatus](regulatus.md)
 - [AVD Calendar](avd-calendar.md)
+- [Novacula](novacula.md)
+- [House Devaar](house-devaar.md)
 - [Common Terms](common-terms.md)
 
 ## Future Pages
 
 - Erit
 - Scutis
-- Novacula
 - Virtus / Virtuasti
 - Lux Aeterna
-- House Devaar
 
 ---
 © Diogo Oliveira — June 2026
