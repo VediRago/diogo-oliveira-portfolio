@@ -2,9 +2,7 @@
 
 # House Ventari
 
-House Ventari was one of the sixteen powerful houses of the old Roman-derived order.
-
-Influential but not dominant, the house sought to rise beyond the balance that kept the great houses in check.
+House Ventari was one of the sixteen powerful houses of the old Roman-derived order. Influential but not dominant, the house sought to rise beyond the balance that kept the great houses in check.
 
 After discovering [Viriatus](viriatus.md), House Ventari hid his arrival, raised him, taught him, and shaped him into the force that would help overthrow the old order and conquer beyond it.
 
