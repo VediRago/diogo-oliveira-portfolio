@@ -4,7 +4,7 @@
 
 This test checks whether player-created experience can change an NPC layer without making the change feel sudden or artificial.
 
-The starting NPC is a block worker in Vys. They begin with a Regulatus-shaped view of the world because the city teaches work, records, ration systems, procedure, and fear of collapse. They also carry a Lux layer because their family has survived through aid, comfort, or shelter.
+The starting NPC is a block worker in Vys. They begin with a [Regulatus](../wiki/regulatus.md)-shaped view of the world because the city teaches work, records, ration systems, procedure, and fear of collapse. They also carry a Lux layer because their family has survived through aid, comfort, or shelter.
 
 They are not a rebel at the start. They are someone trying to survive inside the system.
 
@@ -20,9 +20,7 @@ That experience weakens the worker's Regulatus layer and strengthens their openn
 
 The change comes from lived experience, not from a random alignment switch.
 
-The chain remains:
-
-**Layer → Pressure → Experience → Emotion → Reason → Behavior → Atmosphere**
+The chain remains: **Layer → Pressure → Experience → Emotion → Reason → Behavior → Atmosphere**.
 
 If the player's action changes how the NPC understands the world, future pressure can produce different behavior.
 
