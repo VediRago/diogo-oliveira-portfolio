@@ -12,13 +12,13 @@ If every idea needed a different formula, the process would become harder to use
 
 ## Main Solution
 
-I kept one modular method.
+I kept one [modular method](../vault/case-study-02/modular-method.md).
 
 The rule became:
 
 > Do not extend the chain unless the next layer is earned.
 
-The method was not about adding more steps.
+That [extension rule](../vault/case-study-02/extension-rule.md) was not about adding more steps.
 
 It was about knowing when the next step was justified.
 
@@ -30,7 +30,7 @@ Some characters only needed enough structure to explain what shaped them and how
 
 ## Solution
 
-I used the base method:
+I used the base [method chain](../vault/case-study-02/method-chain.md):
 
 Experience  
 ↓  
@@ -42,7 +42,7 @@ Behavior
 
 ## Example — Viriatus
 
-Viriatus began at this level.
+[Viriatus](../vault/wiki/viriatus.md) began at this level.
 
 His displacement created fear, longing, and a need for belonging.
 
@@ -74,7 +74,7 @@ Atmosphere became the emotional weather created by repeated behavior.
 
 ## Example — A Regulatus-Shaped City
 
-Generations of citizens live under records, hierarchy, inspections, family honor, and civic gratitude.
+Generations of citizens live under [Regulatus](../vault/wiki/regulatus.md), records, hierarchy, inspections, family honor, and civic gratitude.
 
 This creates pride, fear of disorder, and a desire to be seen as worthy.
 
@@ -114,13 +114,13 @@ History became atmosphere that persisted through time.
 
 ## Example — AVD Calendar
 
-Viriatus's death created public grief, pride, confusion, and fear of disorder.
+[Viriatus's death](../vault/wiki/viriatus.md) created public grief, pride, confusion, and fear of disorder.
 
 That feeling was repeated through ceremony, record, doctrine, and public memory.
 
 Over time, the atmosphere around his death became durable enough to become a calendar.
 
-AVD begins when Regulatus is publicly declared, turning atmosphere into history.
+The [AVD calendar](../vault/wiki/avd-calendar.md) begins when [Regulatus](../vault/wiki/regulatus.md) is publicly declared, turning atmosphere into history.
 
 ## Problem 04 — Gameplay Level
 
@@ -181,6 +181,12 @@ A quest might reach quest logic.
 The method remained the same.
 
 Only the depth changed.
+
+## Support Files
+
+- [Modular Method](../vault/case-study-02/modular-method.md)
+- [Extension Rule](../vault/case-study-02/extension-rule.md)
+- [Method Chain](../vault/case-study-02/method-chain.md)
 
 ---
 © Diogo Oliveira — June 2026
