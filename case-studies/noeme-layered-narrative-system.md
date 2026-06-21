@@ -12,7 +12,7 @@ The danger was familiar: explain too early and tension disappears; withhold too 
 
 I built Noeme around a [layered narrative system](../vault/Noeme_case/Layered_Narrative_System.md).
 
-The story gives the audience partial answers that work when first discovered. Later, those answers become part of a larger structure through [stretching instead of replacing](../vault/Noeme_case/Stretching_Instead_of_Replacing.md).
+The story gives the audience partial answers that work when first discovered. Later, those answers become part of a continuity structure through [stretching instead of replacing](../vault/Noeme_case/Stretching_Instead_of_Replacing.md).
 
 The intended feeling is:
 
@@ -24,7 +24,7 @@ What I believed was true, but incomplete.
 
 A long-form mystery can turn characters into puzzle pieces if the structure becomes more important than the people inside it.
 
-Noeme needed Lucreta, Phil, Abigail, Sera, Kael, and Erit to matter emotionally before their lives became part of a larger pattern.
+Noeme needed Lucreta, Phil, Abigail, Sera, Kael, and Erit to matter emotionally before their lives became part of the shared identity and continuity pattern.
 
 ## Solution
 
@@ -54,7 +54,7 @@ The risk was making those theories feel useless after later reveals. If early an
 
 Noeme lets early theories work at their first scale.
 
-A reader may connect symptoms to a virus, or assume Lucreta, Sera, and Erit are the same person through visual evidence. Those readings matter. The mystery changes when the story reveals how those answers fit into a larger structure.
+A reader may connect symptoms to a virus, or assume Lucreta, Sera, and Erit are the same person through visual evidence. Those readings matter. The mystery changes when identity, condition, and Unity reveal that the same evidence belongs to a shared continuity system.
 
 That approach supports [reader reward](../vault/Noeme_case/Reader_Reward.md) while keeping [mystery debt](../vault/Noeme_case/Mystery_Debt.md) manageable.
 
