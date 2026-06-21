@@ -4,9 +4,9 @@
 
 Visual motif bridges are recurring images that gain meaning through repetition.
 
-A motif should first appear as part of a scene rather than as a symbol. Its significance emerges later as new contexts change how the reader interprets it.
+A motif first appears as part of the scene. Its meaning emerges later through repetition, changed context, and reader memory.
 
-The goal is not decoration or hidden symbolism. The goal is recognition. The reader encounters an image again and feels that it belongs to something larger before fully understanding why.
+The reader encounters the image again and feels it belongs to something larger before understanding why.
 
 ## Eyes
 
@@ -26,14 +26,6 @@ At first, it reads as a repeated character trait across separate lives. As the p
 
 That assumption is intentionally supported. The red hair and eyes create enough visual evidence for the audience to reach the right conclusion before the story says it plainly.
 
-The bridge works by making the audience solve the identity question early, then shifting the mystery from:
-
-> Are they the same person?
-
-to:
-
-> How can they be the same person?
-
 This keeps the reveal from feeling like a trick. The audience's recognition is rewarded. The mystery was how they could all be the same person.
 
 ## Windows and Sky
@@ -48,4 +40,4 @@ The meaning evolves across each appearance:
 - Sera: life entering a broken space.
 - Hospital Girl: life continuing beyond what should have been an ending.
 
-The connection should emerge through repetition and reader memory rather than direct explanation.
+The connection emerges through repetition and reader memory.
