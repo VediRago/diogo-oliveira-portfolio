@@ -1,5 +1,7 @@
 # Misdirection Bridges
 
+← Back to [[Noeme_Case_Study|Noeme Case Study]]
+
 Misdirection bridges give the audience real evidence while encouraging an incomplete interpretation.
 
 The goal is not to hide the truth. The goal is to let the audience discover a genuine connection before understanding how it works.
@@ -14,7 +16,7 @@ A successful misdirection bridge creates the feeling:
 
 Noeme misleads through incomplete truth rather than false evidence.
 
-The audience should be able to reach conclusions that are both reasonable and supported by the story. Later reveals expand those conclusions instead of replacing them through [[Stretching Instead of Replacing]].
+The audience should be able to reach conclusions that are both reasonable and supported by the story. Later reveals expand those conclusions instead of replacing them through [[Stretching_Instead_of_Replacing|Stretching Instead of Replacing]].
 
 ## Sera / Lucreta Visual Misdirection
 
