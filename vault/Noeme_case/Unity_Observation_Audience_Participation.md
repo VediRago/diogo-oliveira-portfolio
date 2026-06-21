@@ -1,5 +1,7 @@
 # Unity Observation: Audience Participation
 
+← Back to [[Noeme_Case_Study|Noeme Case Study]]
+
 Qalm requires separation.
 
 Lucreta, Sera, Erit, and Kael exist as separate lives. Each fragment must first be understood as its own emotional reality before the larger structure can become visible.
