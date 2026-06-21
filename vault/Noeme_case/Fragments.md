@@ -10,4 +10,4 @@ Their connection appears through residue. The story uses repeated visual motifs,
 
 The reader should feel the connection before understanding it.
 
-This is why Noeme uses [Visual Motif Bridges](Visual_Motif_Bridges.md), [Misdirection Bridges](Misdirection_Bridges.md), and [Stretching Instead of Replacing](Stretching_Instead_of_Replacing.md). The evidence is real, but the explanation arrives in stages.
+This is why Noeme uses visual motif bridges, misdirection bridges, and stretching instead of replacing. The evidence is real, but the explanation arrives in stages.
