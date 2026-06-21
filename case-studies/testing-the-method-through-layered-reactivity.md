@@ -40,7 +40,7 @@ City decides future context.
 
 The first risk was turning the system into a disguised reputation meter.
 
-If every action simply raised one faction and lowered another, the world would feel reactive but shallow. The player would be moving numbers, not changing pressure inside a living place.
+If every action simply raised one faction and lowered another, the world would feel reactive but shallow. The player would be moving numbers instead of changing pressure inside a living place.
 
 ## Solution
 
@@ -78,7 +78,7 @@ The stronger side can be challenged, while the city keeps memory of how it reach
 
 The city needed more than one fixed end state.
 
-A higher Scutis tier should not permanently freeze the city. Novacula gaining ground should not permanently erase the possibility of order returning.
+A higher Scutis tier can be challenged later. Novacula gaining ground can still leave room for order to return.
 
 The city needed to be stateful, but reversible.
 
@@ -168,7 +168,7 @@ This case study tested whether the earlier worldbuilding method could become pla
 
 Case Study 03 tested that logic inside an interactive prototype.
 
-The result is a reactivity model where choices change context, not only numbers.
+The result is a reactivity model where choices change context and numbers.
 
 ## Support Files
 
