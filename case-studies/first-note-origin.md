@@ -25,7 +25,9 @@ Initial question
 
 Original note written on May 20, 2026.
 
-![First Note](../assets/first-note-may-20.svg)
+![First Note](../vault/first-note-may-20.svg)
+
+[View artifact file in the vault](../vault/first-note-may-20.svg)
 
 ## Design Takeaway
 
