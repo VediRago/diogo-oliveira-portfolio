@@ -1,6 +1,6 @@
 # Stretching Instead of Replacing
 
-← Back to [[Layered_Narrative_System|Layered Narrative System]]
+← Back to [Layered Narrative System](Layered_Narrative_System.md)
 
 A weaker mystery structure replaces answers:
 
