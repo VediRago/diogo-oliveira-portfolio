@@ -65,7 +65,7 @@ The final teaser functions as a compact tone piece.
 
 It shows the project's intended emotional language: layered identity, transformation, instability, recognition, darkness covering the face, typography as rhythm, and atmosphere before exposition.
 
-This makes it useful as a portfolio sample because it shows narrative thinking through presentation, not only written explanation.
+This makes it useful as a portfolio sample because it shows narrative thinking through presentation and written explanation.
 
 ---
 
@@ -77,10 +77,10 @@ This case study demonstrates visual storytelling instincts, Twine used beyond si
 
 ## Lessons Learned
 
-Building the teaser changed how I think about presentation. I learned to treat timing, typography, blur, and image layering as part of the writing process, not as polish added after the story is already complete.
+Building the teaser changed how I think about presentation. I learned to treat timing, typography, blur, and image layering as part of the writing process.
 
 The 20-second limit taught me to choose one emotional movement and protect it. Every fade, delay, and letter order needed a reason because there was no room for decorative effects.
 
-I also learned that mystery needs control. If the sequence hides too much, it becomes noise. If it explains too much, it loses tension. The useful middle ground is a viewer who understands the emotional direction before they understand the full meaning.
+I also learned that mystery needs control. Hiding too much creates noise. Explaining too much removes tension. The useful middle ground is a viewer who understands the emotional direction before they understand the full meaning.
 
 This changed how I approach narrative design: I now treat attention, pacing, and presentation as design materials alongside dialogue, plot, and character.
