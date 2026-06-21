@@ -2,9 +2,9 @@
 
 ← Back to [Unity](Unity.md)
 
-Qalm requires separation.
+[Qalm](Qalm.md) requires separation because experience depends on difference.
 
-Lucreta, Sera, Erit, and Kael exist as separate lives. Each fragment must first be understood as its own emotional reality before the larger structure can become visible.
+Lucreta, Sera, Erit, and Kael exist as separate lives. Each fragment must first be understood as its own emotional reality before the larger continuity structure can become visible.
 
 The audience naturally resists that separation.
 
@@ -16,9 +16,7 @@ Before the story explains Unity, the audience has already started trying to buil
 
 The audience attempts to create Unity before understanding Unity.
 
-This is not because the story tells them to. It is a natural response to recurring patterns.
-
-When separate fragments begin to resemble each other, the reader tries to close the distance between them.
+This is a natural response to recurring patterns. When separate fragments begin to resemble each other, the reader tries to close the distance between them.
 
 This mirrors the central contradiction of the story:
 
