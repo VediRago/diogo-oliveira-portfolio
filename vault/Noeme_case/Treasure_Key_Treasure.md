@@ -1,6 +1,6 @@
 # Treasure Key Treasure
 
-← Back to [[Noeme_Case_Study|Noeme Case Study]]
+← Back to [Case Study 04 — Noeme Layered Narrative System](../../case-studies/noeme-layered-narrative-system.md)
 
 A discovery should be rewarding when first found.
 
@@ -20,11 +20,7 @@ This keeps earlier material valuable.
 
 ## Core Rule
 
-A scene, character, image, or clue can be:
-
-- a treasure by itself
-- a key to another layer
-- both at the same time
+A scene, character, image, or clue can work as a treasure by itself, a key to another layer, or both at the same time.
 
 The first value matters.
 
@@ -38,14 +34,14 @@ Sera is not only a mechanism for Unity.
 
 Each fragment needs its own emotional value before it becomes structurally useful.
 
-This supports the [[Layered_Narrative_System|Layered Narrative System]] because the audience can care before they understand the larger structure.
+This supports the [Layered Narrative System](Layered_Narrative_System.md) because the audience can care before they understand the larger structure.
 
 ## Reader Value
 
 The loop only works if each discovery gives the audience something real.
 
-That value can be emotional, structural, or interpretive. This is the purpose of [[Reader_Reward|Reader Reward]].
+That value can be emotional, structural, or interpretive. This is the purpose of [Reader Reward](Reader_Reward.md).
 
-If the story keeps asking questions without giving value back, it creates [[Mystery_Debt|Mystery Debt]].
+If the story keeps asking questions without giving value back, it creates [Mystery Debt](Mystery_Debt.md).
 
 Treasure Key Treasure prevents that by making each discovery useful twice: first as its own reward, then as a key to a larger layer.
