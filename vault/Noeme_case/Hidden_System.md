@@ -1,6 +1,6 @@
 # Hidden System
 
-← Back to [[Layered_Narrative_System|Layered Narrative System]]
+← Back to [Layered Narrative System](Layered_Narrative_System.md)
 
 Beneath the visible story sits a hidden continuity system that keeps the narrative coherent.
 
@@ -10,12 +10,7 @@ The system exists so the story does not become a collection of callbacks with no
 
 ## What It Does
 
-The hidden system ensures that:
-
-- repeated symptoms and patterns are not random
-- connections between separated lives have structural reason
-- the story is organized by something larger than individual character choices
-- early mysteries have answers that exist, even if they are not directly revealed
+The hidden system keeps repeated symptoms and patterns from feeling random. It gives separated lives a structural reason to connect. It also makes the story feel organized by something larger than individual character choices, even when early mysteries are not directly explained.
 
 ## What It Does Not Do
 
