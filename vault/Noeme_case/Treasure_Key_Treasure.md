@@ -4,7 +4,7 @@
 
 A discovery should be rewarding when first found.
 
-Later, the same discovery may unlock a larger layer.
+Later, the same discovery may unlock a deeper identity, condition, Unity, or continuity connection.
 
 ```text
 Treasure
@@ -34,7 +34,7 @@ Sera is not only a mechanism for Unity.
 
 Each fragment needs its own emotional value before it becomes structurally useful.
 
-This supports the [Layered Narrative System](Layered_Narrative_System.md) because the audience can care before they understand the larger structure.
+The audience can care before they understand the full structure.
 
 ## Reader Value
 
@@ -44,4 +44,4 @@ That value can be emotional, structural, or interpretive. This is the purpose of
 
 If the story keeps asking questions without giving value back, it creates [Mystery Debt](Mystery_Debt.md).
 
-Treasure Key Treasure prevents that by making each discovery useful twice: first as its own reward, then as a key to a larger layer.
+Treasure Key Treasure prevents that by making each discovery useful twice: first as its own reward, then as a key to a deeper layer.
