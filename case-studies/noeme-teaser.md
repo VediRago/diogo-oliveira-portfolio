@@ -79,6 +79,6 @@ This case study demonstrates visual storytelling instincts, Twine used beyond si
 
 The teaser helped me understand that presentation details can carry story meaning.
 
-A fade is not only a fade. A delay is not only a delay. A letter disappearing first or last changes how the viewer reads the moment.
+Fade timing, delay, blur, glow, and letter order all shape how the viewer reads the moment.
 
 For narrative design, that matters because player or viewer emotion is shaped by timing, rhythm, and controlled attention, not only by dialogue or plot.
