@@ -1,5 +1,7 @@
 # Reader Reward
 
+← Back to [[Noeme_Case_Study|Noeme Case Study]]
+
 The reader is not owed every answer immediately.
 
 The reader is owed value for their attention.
@@ -24,6 +26,6 @@ Every act should give them something real to hold before the next stretch begins
 
 Mystery creates pressure.
 
-If a story only adds questions, the audience eventually becomes frustrated. [[Reader Reward]] keeps the experience alive by giving partial satisfaction before expanding the frame again.
+If a story only adds questions, the audience eventually becomes frustrated. [[Reader_Reward|Reader Reward]] keeps the experience alive by giving partial satisfaction before expanding the frame again.
 
 The audience continues because they are being fed, not because they are starving for one final answer.
