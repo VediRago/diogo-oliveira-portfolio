@@ -8,7 +8,7 @@ Unlike [Ilunis Ventari](ilunis-ventari.md), who creates power through force, or 
 
 Because he is not the obvious heir, weapon, or scholar, Ermerus grows in the space left between his siblings. He becomes charming, socially fluent, and difficult to target directly. His danger is interpretation.
 
-Ermerus understands that people do not only obey force. They obey the story that makes force feel necessary.
+Ermerus understands that people obey the story that makes force feel necessary.
 
 After [Ecalus Ventari](ecalus-ventari.md) dies, [Viriatus](viriatus.md) becomes more than a military advantage. He becomes a public symbol strong enough to outrank the blood heirs of House Ventari.
 
