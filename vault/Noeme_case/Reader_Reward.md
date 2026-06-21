@@ -26,6 +26,6 @@ Every act should give them something real to hold before the next stretch begins
 
 Mystery creates pressure.
 
-If a story only adds questions, the audience eventually becomes frustrated. [[Reader_Reward|Reader Reward]] keeps the experience alive by giving partial satisfaction before expanding the frame again.
+If a story only adds questions, the audience eventually becomes frustrated. Reader reward keeps the experience alive by giving partial satisfaction before expanding the frame again.
 
 The audience continues because they are being fed, not because they are starving for one final answer.
