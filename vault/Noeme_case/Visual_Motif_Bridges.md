@@ -6,17 +6,17 @@ Visual motif bridges are recurring images that gain meaning through repetition.
 
 A motif first appears as part of the scene. Its meaning emerges later through repetition, changed context, and reader memory.
 
-The reader encounters the image again and feels it belongs to something larger before understanding why.
+The reader encounters the image again and connects it to identity, continuity, or survival before the story explains the full system.
 
 ## Eyes
 
 Eyes first appear as physical evidence that something is wrong.
 
-Lucreta's fading eyes establish the pattern. Similar traits later appear around Sera and Erit, creating recognition without explanation.
+Lucreta's fading eyes establish the condition. Similar traits later appear around Sera and Erit, creating recognition without explanation.
 
 As the story expands, eyes become evidence of connection, decline, survival, and change while remaining grounded in physical observation.
 
-The hospital girl's pale grey eyes are especially important because they show that the pattern has shifted without explaining why.
+The hospital girl's pale grey eyes show that the condition has changed after Unity. The old pattern does not resolve through collapse in the same way.
 
 ## Red Hair
 
