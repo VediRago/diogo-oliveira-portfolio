@@ -34,4 +34,4 @@ The audience should not feel constantly pressured.
 
 They need attachment before loss. They need stillness after impact.
 
-This timing also helps manage [Mystery Debt](Mystery_Debt.md). Rewards and revelations need to arrive when the audience needs them, not just when the plot is ready to reveal them.
+This timing also helps manage mystery debt. Rewards and revelations need to arrive when the audience needs them, not just when the plot is ready to reveal them.
