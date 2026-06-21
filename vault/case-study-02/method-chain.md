@@ -18,7 +18,7 @@ When atmosphere survives through time and becomes myth, law, record, ritual, ins
 
 **Experience → Emotion → Reason → Behavior → Atmosphere → History**
 
-History is not only old events. History is atmosphere that became durable.
+History is old events turned into durable atmosphere.
 
 When that history, atmosphere, or world pressure creates a playable problem, the chain becomes useful for quest design:
 
