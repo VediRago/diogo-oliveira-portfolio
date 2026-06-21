@@ -1,5 +1,7 @@
 # Visual Motif Bridges
 
+← Back to [[Noeme_Case_Study|Noeme Case Study]]
+
 Visual motif bridges are recurring images that gain meaning through repetition.
 
 A motif should first appear as part of a scene rather than as a symbol. Its significance emerges later as new contexts change how the reader interprets it.
