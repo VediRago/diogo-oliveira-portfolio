@@ -41,3 +41,7 @@ experience -> emotion -> reason -> behavior -> atmosphere -> quest logic
 ```
 
 The goal is to document how ideas developed, not simply what was created.
+
+---
+
+[Back to Narrative Design Portfolio](../../README.md)
