@@ -4,7 +4,7 @@
 
 Regulatus is the inherited doctrine of ordered legacy that shapes Erit's world.
 
-It is not only a law code, religion, government policy, or institution. It is a method of life: the feeling of being proud to belong to the order that protects, feeds, educates, disciplines, records, and gives purpose to its people.
+It is a law code, religion, government policy, institution, and method of life. It gives people the feeling of being proud to belong to the order that protects, feeds, educates, disciplines, records, and gives purpose to them.
 
 On the surface, Regulatus is legacy, duty, gratitude, family honor, discipline, and belonging. Underneath, it is mass control.
 
@@ -26,7 +26,7 @@ To question Regulatus becomes to dishonor Viriatus.
 
 To obey Regulatus becomes to participate in his legacy.
 
-This is why Regulatus matters beyond politics. It does not only control what people do. It shapes what people feel about what they do.
+This is why Regulatus matters beyond politics. It controls what people do and shapes what they feel about what they do.
 
 By Erit's era, Regulatus helps explain why hierarchy can feel beautiful, why gratitude becomes social pressure, why records and chips can feel protective instead of invasive, and why rebellion can seem immature or dangerous to loyal citizens.
 
