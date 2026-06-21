@@ -14,4 +14,4 @@ The core sequence is explained in [Continuity Cycle](Continuity_Cycle.md). The a
 
 Kael becomes important because she breaks the normal classification path. That is explained in [Kael as Anomaly](Kael_As_Anomaly.md), [Kael Quarantine and Contamination](Kael_Quarantine_And_Contamination.md), and [System Failure](System_Failure.md).
 
-[Unity](Unity.md) is where these hidden rules stop being only structure and become direct experience.
+Unity is where these hidden rules stop being only structure and become direct experience.
