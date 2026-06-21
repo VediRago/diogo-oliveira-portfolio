@@ -1,6 +1,6 @@
 # Visual Motif Bridges
 
-← Back to [[Bridge_System|Bridge System]]
+← Back to [Bridge System](Bridge_System.md)
 
 Visual motif bridges are recurring images that gain meaning through repetition.
 
@@ -34,10 +34,6 @@ Windows and sky represent movement, continuation, and life beyond the immediate 
 
 Lucreta looks toward life through a window before collapse. Later, bright sky enters Sera's ruined apartment before attachment has fully arrived. The same image returns again with the hospital girl moving toward a window after Unity.
 
-The meaning evolves across each appearance:
-
-- Lucreta: a future she will not reach.
-- Sera: life entering a broken space.
-- Hospital Girl: life continuing beyond what should have been an ending.
+Across the story, Lucreta's window points toward a future she will not reach. Sera's sky brings life into a broken space. The hospital girl's window shows life continuing beyond what should have been an ending.
 
 The connection emerges through repetition and reader memory.
