@@ -1,6 +1,6 @@
 # Misdirection Bridges
 
-← Back to [[Noeme_Case_Study|Noeme Case Study]]
+← Back to [[Bridge_System|Bridge System]]
 
 Misdirection bridges give the audience real evidence while encouraging an incomplete interpretation.
 
