@@ -77,10 +77,10 @@ This case study demonstrates visual storytelling instincts, Twine used beyond si
 
 ## Lessons Learned
 
-The teaser helped me understand that presentation details can carry story meaning, even when not explained or understood at first.
+Building the teaser changed how I think about presentation. I learned to treat timing, typography, blur, and image layering as part of the writing process, not as polish added after the story is already complete.
 
-The limitation to 20 seconds or less made me realize that constraints can help create a piece that does not lose attention while remaining mysterious and rewarding viewers who look deeper.
+The 20-second limit taught me to choose one emotional movement and protect it. Every fade, delay, and letter order needed a reason because there was no room for decorative effects.
 
-Fade timing, delay, blur, glow, and letter order all shape how the viewer reads the moment.
+I also learned that mystery needs control. If the sequence hides too much, it becomes noise. If it explains too much, it loses tension. The useful middle ground is a viewer who understands the emotional direction before they understand the full meaning.
 
-For narrative design, that matters because player or viewer emotion is shaped by timing, rhythm, and controlled attention, not only by dialogue or plot.
+This changed how I approach narrative design: I now treat attention, pacing, and presentation as design materials alongside dialogue, plot, and character.
