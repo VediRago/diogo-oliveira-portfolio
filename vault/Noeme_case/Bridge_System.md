@@ -4,11 +4,9 @@
 
 A bridge is a connection that allows one scene, image, behavior, or misunderstanding to carry meaning into another part of the story.
 
-Bridges are not direct explanations.
+Bridges prepare recognition.
 
-They prepare recognition.
-
-The goal is not to prove the story is clever. The goal is to make later moments land with more emotional or structural force because something earlier prepared the ground.
+They make later moments land harder because earlier scenes prepared the ground.
 
 ## Visual Motif Bridges
 
@@ -20,7 +18,7 @@ Eyes that fade, then eyes that survive. Windows that frame loss, then windows th
 
 [[Misdirection_Bridges|Misdirection Bridges]] use real evidence to support an incomplete explanation.
 
-The audience forms a working theory from genuine clues. Later evidence does not erase the theory. It expands beyond it.
+The audience forms a working theory from genuine clues. Later evidence expands beyond that first theory.
 
 ## Emotional Bridges
 
