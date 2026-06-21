@@ -36,7 +36,7 @@ The intended reader reaction is:
 What I believed was true, but incomplete.
 ```
 
-A first answer should work. Later, the story should stretch that answer instead of deleting it. This is the core of [[Stretching_Instead_of_Replacing|Stretching Instead of Replacing]].
+A first answer should work. Later, the story should stretch that answer instead of deleting it.
 
 ---
 
@@ -48,37 +48,33 @@ The reader should care about the characters before being asked to understand the
 
 Lucreta, Phil, Abigail, Sera, Kael, and Erit must work as people before they become part of a larger pattern.
 
-A fragment must be valuable as a scene before it becomes part of the [[Treasure_Key_Treasure|Treasure Key Treasure]] discovery loop.
+A fragment must be valuable as a scene before it becomes useful as a clue.
 
 ---
 
-## Narrative Architecture
+## Case Structure
 
-The case study is organized around the systems that make the mystery feel fair.
+This folder is organized as a case-study map, not a lore wiki.
 
-The [[Layered_Narrative_System|Layered Narrative System]] defines the architecture: character story, structural story, reader interpretation, and hidden system. It keeps the reader emotionally grounded while the larger pattern develops underneath.
+The [[Layered_Narrative_System|Layered Narrative System]] explains the core architecture: character story, structural story, reader interpretation, and hidden system. This is where the foundation of the case lives.
 
-The [[Bridge_System|Bridge System]] explains how meaning travels between fragments. [[Visual_Motif_Bridges|Visual Motif Bridges]] create recognition through repeated images. [[Misdirection_Bridges|Misdirection Bridges]] use real evidence to support incomplete interpretations.
+The [[Bridge_System|Bridge System]] explains how meaning travels between fragments. It holds the pages for visual motifs and misdirection, because both are bridge types.
 
-[[Reader_Reward|Reader Reward]] and [[Mystery_Debt|Mystery Debt]] control how long the audience can wait for answers. The story gives partial value before expanding the frame again.
+The [[Treasure_Key_Treasure|Treasure Key Treasure]] loop explains how discoveries stay valuable. It holds the pages for reader reward and mystery debt, because both are part of how the story pays attention back to the audience.
 
-[[Emotional_Architecture|Emotional Architecture]] controls when pressure, rupture, overload, and stillness arrive. Mystery needs timing, not only structure.
-
-The [[Hidden_System|Hidden System]] keeps the connections coherent without turning the story into direct lore explanation.
-
-[[Unity|Unity]] is where the structure becomes direct emotional experience. [[Unity_Observation_Audience_Participation|Unity Observation: Audience Participation]] explains how the audience begins connecting the fragments before the story confirms how they connect.
+[[Emotional_Architecture|Emotional Architecture]] explains pacing: breathing room, pressure, rupture, overload, and stillness. It sits beside the system pages because timing controls when the audience can absorb each reveal.
 
 ---
 
 ## Design Outcome
 
-This system gives the project a structure where:
+This structure lets the project:
 
-- early scenes can work emotionally before the larger mechanics are known
-- repeated images can become recognition instead of decoration
-- partial answers can satisfy without ending curiosity
-- characters can remain people instead of becoming puzzle pieces
-- later reveals can expand meaning instead of erasing earlier investment
+- make early scenes work emotionally before the larger mechanics are known
+- turn repeated images into recognition instead of decoration
+- give partial answers without ending curiosity
+- keep characters as people instead of puzzle pieces
+- expand later reveals without erasing earlier investment
 
 ---
 
