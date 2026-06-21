@@ -1,6 +1,6 @@
 # Misdirection Bridges
 
-← Back to [[Bridge_System|Bridge System]]
+← Back to [Bridge System](Bridge_System.md)
 
 Misdirection bridges give the audience real evidence for an incomplete interpretation.
 
@@ -16,7 +16,7 @@ A successful misdirection bridge creates the feeling:
 
 Noeme uses incomplete truth. The evidence is real, but the explanation is unfinished.
 
-The audience should be able to reach conclusions that are both reasonable and supported by the story. Later reveals expand those conclusions through [[Stretching_Instead_of_Replacing|Stretching Instead of Replacing]].
+The audience should be able to reach conclusions that are both reasonable and supported by the story. Later reveals expand those conclusions through [Stretching Instead of Replacing](Stretching_Instead_of_Replacing.md).
 
 ## Sera / Lucreta Visual Misdirection
 
