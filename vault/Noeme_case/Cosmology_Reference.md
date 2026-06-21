@@ -1,6 +1,6 @@
 # Cosmology Reference
 
-← Back to [Noeme case support folder](README.md)
+← Back to [Hidden System](Hidden_System.md)
 
 This page defines the hidden continuity rules behind Noeme.
 
