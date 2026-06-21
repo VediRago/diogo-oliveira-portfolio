@@ -22,7 +22,7 @@ The hospital girl's pale grey eyes show that the condition has changed after Uni
 
 Red hair works alongside the eyes as a visual identity bridge between Lucreta, Sera, and Erit.
 
-At first, it reads as a repeated character trait across separate lives. As the pattern continues, the audience is expected to assume the connection directly: these are not just similar people, but the same person.
+At first, it reads as a repeated character trait across separate lives. As the pattern continues, the audience is expected to recognize them as the same person.
 
 That assumption is intentionally supported. The red hair and eyes create enough visual evidence for the audience to reach the right conclusion before the story says it plainly.
 
