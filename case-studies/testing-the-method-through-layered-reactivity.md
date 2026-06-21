@@ -6,11 +6,11 @@
 
 After building the world logic and [modular method](building-a-modular-narrative-method.md), the next question was whether the same thinking could drive a reactive prototype.
 
-I did not want a simple reputation bar where one faction goes up, another goes down, and the world reacts through direct switches. That kind of system can make factions feel too flexible, as if their identity changes whenever the player touches them.
+A simple reputation bar, where one faction goes up, another goes down, and the world reacts through direct switches, can make factions feel too flexible. Their identity starts to feel as if it changes whenever the player touches them.
 
 The challenge was to let the world react without making every actor lose its shape.
 
-A faction should remain itself. A local character should remain local. A city state should change, but not erase the identity of the forces acting inside it.
+A faction should remain itself. A local character should remain local. A city state should change, while preserving the identity of the forces acting inside it.
 
 ## Main Solution
 
@@ -18,7 +18,7 @@ I tested the method in Twine through a layered reactivity system.
 
 The solution was to separate actor identity from actor influence.
 
-A local action does not become a faction action just because it affects the city. A faction action does not become a local action just because citizens react to it. Each layer keeps its role, while still influencing the effectiveness of the others.
+A local action can affect the city while remaining local. A faction action can shape citizens' reactions while remaining faction pressure. Each layer keeps its role, while still influencing the effectiveness of the others.
 
 The working structure became:
 
@@ -52,7 +52,7 @@ Layer 2 handles faction pressure: organized groups, public authority, rebels, in
 
 Layer 1 handles the city or world state: the wider condition created by accumulated pressure.
 
-This allowed local behavior and faction pressure to affect the city without becoming the same thing.
+This allowed local behavior and faction pressure to affect the city while keeping separate roles.
 
 ## Problem 02 — Keeping Factions Stable
 
@@ -60,11 +60,11 @@ The second problem was faction identity.
 
 If player action could change a faction too easily, factions would stop feeling like institutions with memory, ideology, and limits.
 
-Scutis should not become Novacula just because the player pushes the city in a different direction. Novacula should not become Scutis because the city temporarily favors order.
+Scutis should remain Scutis. Novacula should remain Novacula. The city state can shift without rewriting what those factions are.
 
 ## Solution
 
-Layer 2 and Layer 3 influence each other's effectiveness, but not each other's identity.
+Layer 2 and Layer 3 influence each other's effectiveness while keeping separate identities.
 
 A faction remains itself. What changes is how strongly its actions land inside the current social condition of the city.
 
@@ -72,13 +72,13 @@ If Scutis currently has the upper hand, Novacula has a harder time regaining pow
 
 This creates an anti-snowball effect.
 
-The stronger side can be challenged, but not by pretending the city has no memory.
+The stronger side can be challenged, while the city keeps memory of how it reached its current state.
 
 ## Problem 03 — Making City State Reversible
 
-The city could not end in only one fixed state.
+The city needed more than one fixed end state.
 
-If Scutis reached a higher tier, that should not permanently freeze the city. If Novacula gained ground, that should not permanently erase the possibility of order returning.
+A higher Scutis tier should not permanently freeze the city. Novacula gaining ground should not permanently erase the possibility of order returning.
 
 The city needed to be stateful, but reversible.
 
@@ -119,7 +119,7 @@ A pressure passage then collects those values, applies them to the city pressure
 
 This keeps the quest passages simple.
 
-They do not need to know the entire city system. They only report what kind of pressure they created. The pressure and city-state logic handle the wider consequence.
+They only report what kind of pressure they created. The pressure and city-state logic handle the wider consequence.
 
 ## Result
 
@@ -127,7 +127,7 @@ The prototype showed that layered reactivity can remain fluid without becoming s
 
 Local behavior, faction pressure, and city state can affect one another without collapsing into one system.
 
-The method also kept the design scalable. New quests do not need to rewrite the whole structure. They only need to decide what layer they affect and how strongly.
+The method also kept the design scalable. New quests only need to decide what layer they affect and how strongly.
 
 The final loop is:
 
@@ -168,7 +168,7 @@ This case study tested whether the earlier worldbuilding method could become pla
 
 Case Study 03 tested that logic inside an interactive prototype.
 
-The result is a reactivity model where choices do not only change numbers. They change context.
+The result is a reactivity model where choices change context, not only numbers.
 
 ## Support Files
 
