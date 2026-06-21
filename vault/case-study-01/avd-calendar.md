@@ -18,7 +18,7 @@ Through the AVD calendar, Viriatus's death becomes more than memory. It becomes 
 
 To live inside AVD time is to live inside the meaning [Ermerus Ventari](ermerus-ventari.md) created from Viriatus's death.
 
-This makes the calendar one of the clearest examples of House Ventari's power: not only ruling events, but ruling how events are remembered.
+This makes the calendar one of the clearest examples of House Ventari's power: it controls events and shapes how those events are remembered.
 
 ---
 © Diogo Oliveira — June 2026
