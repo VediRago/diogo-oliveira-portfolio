@@ -1,5 +1,7 @@
 # Mystery Debt
 
+← Back to [[Noeme_Case_Study|Noeme Case Study]]
+
 Every unanswered question is a loan.
 
 When a story withholds information, it asks the audience for patience and credibility. That creates debt.
@@ -36,7 +38,7 @@ New question
 Larger recognition
 ```
 
-This works with [[Reader Reward]], [[Bridge System]], and [[Stretching Instead of Replacing]].
+This works with [[Reader_Reward|Reader Reward]], [[Bridge_System|Bridge System]], and [[Stretching_Instead_of_Replacing|Stretching Instead of Replacing]].
 
 The audience receives value before the mystery expands again.
 
