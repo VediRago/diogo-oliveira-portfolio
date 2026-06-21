@@ -4,7 +4,7 @@
 
 Noeme is built as a layered narrative.
 
-Different parts of the story perform different functions at the same time. The reader experiences characters on the surface while larger structural patterns operate underneath.
+Different parts of the story perform different functions at the same time. The reader experiences characters on the surface while identity, condition, memory, and Unity operate underneath.
 
 The deeper structure supports the emotional story.
 
@@ -14,7 +14,7 @@ The surface layer.
 
 This includes relationships, loss, survival, attachment, and personal conflict.
 
-Lucreta, Phil, Abigail, Sera, Kael, and Erit must work as people before they become part of a larger pattern.
+Lucreta, Phil, Abigail, Sera, Kael, and Erit must work as people before they become part of the shared identity and continuity pattern.
 
 A fragment should function as a complete emotional experience before it becomes part of the [Treasure Key Treasure](Treasure_Key_Treasure.md) discovery loop.
 
@@ -34,7 +34,7 @@ Their purpose is to create recognition without stopping the story to explain its
 
 The layer where the audience builds explanations.
 
-Readers form theories using the evidence available to them. Those theories help them navigate the story even when they do not yet understand the larger structure.
+Readers form theories using the evidence available to them. Those theories help them navigate the story even when they do not yet understand the continuity system.
 
 Those theories are supported through [Stretching Instead of Replacing](Stretching_Instead_of_Replacing.md), allowing understanding to expand without discarding earlier conclusions.
 
@@ -42,17 +42,17 @@ Those theories are supported through [Stretching Instead of Replacing](Stretchin
 
 The deepest layer is the underlying structure that keeps the narrative coherent.
 
-It ensures that the connections between fragments have a reason for existing.
+It gives separated lives, recurring symptoms, and repeated visual traits a reason to connect.
 
-The reader does not need to know the system.
+The reader does not need to know every mechanic.
 
-The reader only needs to feel that the story is organized by something larger than what they can fully see.
+The reader needs enough evidence to feel that the story is organized by a real design logic.
 
 ## Relationship to Unity
 
 [Unity](Unity.md) is the point where the layered structure becomes direct experience.
 
-The earlier layers build attachment, recognition, and interpretation. Unity is where those layers converge.
+The earlier layers build attachment, recognition, and interpretation. Unity is where the character story, structural evidence, reader theories, and hidden system converge.
 
 ## Summary
 
