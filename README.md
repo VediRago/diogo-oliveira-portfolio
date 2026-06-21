@@ -22,7 +22,7 @@ From there, the main case studies show the process moving from world pressure, t
 
 [Testing The Method Through Layered Reactivity](case-studies/testing-the-method-through-layered-reactivity.md) tests the method through a Twine prototype built around city state, faction pressure, and local behavior.
 
-[Noeme — Layered Narrative System](vault/Noeme_case/Noeme_Case_Study.md) applies the same design thinking to a long-form mystery structure built around delayed recognition, bridge systems, reader reward, and emotional pacing.
+[Noeme — Layered Narrative System](case-studies/noeme-layered-narrative-system.md) applies the same design thinking to a long-form mystery structure built around delayed recognition, bridge systems, reader reward, and emotional pacing.
 
 ## Project Link
 
