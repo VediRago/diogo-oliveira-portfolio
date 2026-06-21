@@ -1,5 +1,7 @@
 # Stretching Instead of Replacing
 
+← Back to [[Noeme_Case_Study|Noeme Case Study]]
+
 A weaker mystery structure replaces answers:
 
 ```text
