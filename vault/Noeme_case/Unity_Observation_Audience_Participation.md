@@ -1,6 +1,6 @@
 # Unity Observation: Audience Participation
 
-← Back to [[Unity|Unity]]
+← Back to [Unity](Unity.md)
 
 Qalm requires separation.
 
@@ -26,4 +26,4 @@ This mirrors the central contradiction of the story:
 
 The audience unknowingly participates in the same tension the story explores.
 
-They are not only watching the fragments move toward [[Unity|Unity]]. They are trying to unify them themselves.
+They are not only watching the fragments move toward [Unity](Unity.md). They are trying to unify them themselves.
