@@ -6,4 +6,4 @@ The public case study stays lean. These files hold the deeper system explanation
 
 Start with the public case study, then use the linked support files when more detail is useful.
 
-The hidden continuity rules are collected in [Cosmology Reference](Cosmology_Reference.md).
+The hidden continuity rules are introduced through [Hidden System](Hidden_System.md).
