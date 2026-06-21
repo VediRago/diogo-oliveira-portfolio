@@ -20,8 +20,6 @@ Noeme pays debt in smaller installments across the story.
 
 A question creates pressure. A small answer or reward gives value back. A new question can then expand the frame toward larger recognition.
 
-This works with [Reader Reward](Reader_Reward.md), [Bridge System](Bridge_System.md), and [Stretching Instead of Replacing](Stretching_Instead_of_Replacing.md).
-
 The audience receives value before the mystery expands again.
 
 ## Failure Pattern
