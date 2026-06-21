@@ -1,6 +1,6 @@
 # Unity
 
-← Back to [[Noeme_Case_Study|Noeme Case Study]]
+← Back to [[Layered_Narrative_System|Layered Narrative System]]
 
 Unity is the point where the layered system stops being background structure and becomes direct emotional experience.
 
