@@ -28,4 +28,4 @@ Mystery creates pressure.
 
 If a story only adds questions, the audience eventually becomes frustrated. Reader reward keeps the experience alive by giving partial satisfaction before expanding the frame again.
 
-The audience continues because they are being fed, not because they are starving for one final answer.
+The audience continues because the story keeps giving value before asking for more patience.
