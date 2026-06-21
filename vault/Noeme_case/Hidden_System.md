@@ -1,5 +1,7 @@
 # Hidden System
 
+← Back to [[Noeme_Case_Study|Noeme Case Study]]
+
 Beneath the visible story sits a hidden continuity system that keeps the narrative coherent.
 
 The reader does not need to decode the full system.
