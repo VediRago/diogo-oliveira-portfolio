@@ -1,20 +1,12 @@
 # Reader Reward
 
-← Back to [[Treasure_Key_Treasure|Treasure Key Treasure]]
+← Back to [Treasure Key Treasure](Treasure_Key_Treasure.md)
 
 The reader is not owed every answer immediately.
 
 The reader is owed value for their attention.
 
-That value can be:
-
-- emotional attachment
-- a meaningful image
-- a character moment
-- a working explanation
-- a question that leads somewhere
-- recognition later
-- a new layer of understanding
+That value can come through emotional attachment, a meaningful image, a character moment, a working explanation, a question that leads somewhere, recognition later, or a new layer of understanding.
 
 ## Core Rule
 
