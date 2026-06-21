@@ -1,9 +1,7 @@
 # Noeme Case
 
-This folder contains the linked concept files for the Noeme narrative design case study.
+This folder contains the support files for [Case Study 04 — Noeme Layered Narrative System](../../case-studies/noeme-layered-narrative-system.md).
 
-Start here:
+The public case study stays lean. These files hold the deeper system explanations behind the case.
 
-- [Noeme Case Study](Noeme_Case_Study.md)
-
-The purpose is to keep the main case study lean while giving important systems their own focused pages.
+Start with the public case study, then use the linked support files when more detail is useful.
