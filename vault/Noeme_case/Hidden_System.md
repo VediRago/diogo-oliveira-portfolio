@@ -16,6 +16,8 @@ Lucreta, Sera, Erit, and Kael are not linked by coincidence. Their echoes come f
 
 This lets the story feel organized even when early mysteries are not directly explained.
 
+The author-facing rules behind this structure are explained in [Cosmology Reference](Cosmology_Reference.md).
+
 ## What It Does Not Do
 
 The hidden system is not meant to become a lore explanation that stops the story.
