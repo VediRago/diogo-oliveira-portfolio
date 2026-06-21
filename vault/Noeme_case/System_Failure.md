@@ -4,7 +4,7 @@
 
 System failure is the consequence of Kael's Unity event.
 
-Kael disrupts [Qalm](Qalm.md)'s ability to correctly resolve [The Condition](The_Condition.md) across connected [Fragments](Fragments.md).
+Kael disrupts Qalm's ability to correctly resolve The Condition across connected fragments.
 
 The original tragedies remain real. Nothing is undone. Lucreta, Abby, Phil, Sera, Erit, and Kael still suffer what they suffered.
 
