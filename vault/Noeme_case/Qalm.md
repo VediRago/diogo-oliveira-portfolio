@@ -6,7 +6,7 @@ Qalm is the hidden continuity architecture behind Noeme.
 
 It is not a god, villain, or conscious character. It does not make moral choices. A useful author metaphor is a librarian: it has access to the library, but it does not read every book at once.
 
-Qalm explores and manages infinite outcomes. [Fragments](Fragments.md) exist because those outcomes exist.
+Qalm explores and manages infinite outcomes. Fragments exist because those outcomes exist.
 
 Qalm requires separation because experience depends on difference. If every fragment collapses into one stable unified state, outcome variation stops. Separation allows different lives, choices, losses, and continuations to exist.
 
