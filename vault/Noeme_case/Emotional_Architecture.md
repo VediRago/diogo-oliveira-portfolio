@@ -1,5 +1,7 @@
 # Emotional Architecture
 
+← Back to [[Noeme_Case_Study|Noeme Case Study]]
+
 Noeme is designed around emotional pacing and breathing room.
 
 Structure matters, but the audience needs time to care before the story makes them hurt.
@@ -32,4 +34,4 @@ The audience should not feel constantly pressured.
 
 They need attachment before loss. They need stillness after impact.
 
-This timing also helps manage [[Mystery Debt]]. Rewards and revelations need to arrive when the audience needs them, not just when the plot is ready to reveal them.
+This timing also helps manage [[Mystery_Debt|Mystery Debt]]. Rewards and revelations need to arrive when the audience needs them, not just when the plot is ready to reveal them.
