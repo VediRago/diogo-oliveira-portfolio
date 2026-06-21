@@ -1,6 +1,6 @@
 # Reader Reward
 
-← Back to [[Noeme_Case_Study|Noeme Case Study]]
+← Back to [[Treasure_Key_Treasure|Treasure Key Treasure]]
 
 The reader is not owed every answer immediately.
 
