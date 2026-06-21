@@ -1,6 +1,6 @@
 # Unity Observation: Audience Participation
 
-← Back to [[Noeme_Case_Study|Noeme Case Study]]
+← Back to [[Unity|Unity]]
 
 Qalm requires separation.
 
@@ -26,4 +26,4 @@ This mirrors the central contradiction of the story:
 
 The audience unknowingly participates in the same tension the story explores.
 
-They are not only watching the fragments move toward [[Unity]]. They are trying to unify them themselves.
+They are not only watching the fragments move toward [[Unity|Unity]]. They are trying to unify them themselves.
