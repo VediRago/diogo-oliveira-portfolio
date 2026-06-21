@@ -28,4 +28,4 @@ Mysteries often fail when they hide too much, give too little, and make the audi
 
 The audience feels tricked because their attention was borrowed without enough return.
 
-Noeme makes the final reveal the largest reward in a series of recognitions.
+Noeme makes Unity and the continuity-system reveal the largest reward in a series of recognitions.
