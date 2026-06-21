@@ -14,8 +14,6 @@ The reader has already seen recurring images, repeated symptoms, identity echoes
 
 Unity brings those signals together. It confirms that the separated fragments are connected through the hidden continuity system and that the condition can change after convergence.
 
-The author-facing mechanics behind this continuity are explained in [Cosmology Reference](Cosmology_Reference.md).
-
 Mechanically, Unity exposes Kael to the connected continuity layer at once. Kael remains limited by human perception, so she cannot process everything simultaneously. She experiences nearby fragments more clearly, while distant continuity collapses into movement, images, emotions, sensations, and finally colors.
 
 The event is simultaneous. The perception is localized.
