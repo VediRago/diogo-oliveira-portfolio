@@ -26,7 +26,7 @@ If the debt grows too large, no single answer can satisfy it.
 
 ## How Noeme Manages Debt
 
-Noeme pays debt in smaller installments instead of saving every answer for the end.
+Noeme pays debt in smaller installments across the story.
 
 ```text
 Question
@@ -48,4 +48,4 @@ Mysteries often fail when they hide too much, give too little, and make the audi
 
 The audience feels tricked because their attention was borrowed without enough return.
 
-Noeme avoids this by making the final reveal the largest reward in a series of recognitions, not the only reward.
+Noeme makes the final reveal the largest reward in a series of recognitions.
