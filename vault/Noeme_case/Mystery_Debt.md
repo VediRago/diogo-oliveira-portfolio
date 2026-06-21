@@ -1,6 +1,6 @@
 # Mystery Debt
 
-← Back to [[Treasure_Key_Treasure|Treasure Key Treasure]]
+← Back to [Treasure Key Treasure](Treasure_Key_Treasure.md)
 
 Every unanswered question is a loan.
 
@@ -8,17 +8,7 @@ When a story withholds information, it asks the audience for patience and credib
 
 ## How Debt Builds
 
-```text
-Question asked
-↓
-Audience gives trust
-↓
-No answer arrives
-↓
-New question added
-↓
-Debt grows
-```
+A question asks the audience for trust. If no answer arrives and new questions keep appearing, that trust becomes debt.
 
 The longer the story waits, the larger the expected payoff becomes.
 
@@ -28,17 +18,9 @@ If the debt grows too large, no single answer can satisfy it.
 
 Noeme pays debt in smaller installments across the story.
 
-```text
-Question
-↓
-Small answer or reward
-↓
-New question
-↓
-Larger recognition
-```
+A question creates pressure. A small answer or reward gives value back. A new question can then expand the frame toward larger recognition.
 
-This works with [[Reader_Reward|Reader Reward]], [[Bridge_System|Bridge System]], and [[Stretching_Instead_of_Replacing|Stretching Instead of Replacing]].
+This works with [Reader Reward](Reader_Reward.md), [Bridge System](Bridge_System.md), and [Stretching Instead of Replacing](Stretching_Instead_of_Replacing.md).
 
 The audience receives value before the mystery expands again.
 
