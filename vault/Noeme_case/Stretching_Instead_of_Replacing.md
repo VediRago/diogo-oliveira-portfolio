@@ -42,6 +42,6 @@ Later, more evidence appears where infection alone does not explain the pattern.
 
 The virus remains real.
 
-The pattern is larger.
+The virus explains the local damage. It does not explain why similar symptoms appear across separate lives, timelines, and contexts.
 
 The audience was right to notice the symptoms. What changed was the scale of the answer.
