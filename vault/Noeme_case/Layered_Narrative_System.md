@@ -1,6 +1,6 @@
 # Layered Narrative System
 
-← Back to [[Noeme_Case_Study|Noeme Case Study]]
+← Back to [Case Study 04 — Noeme Layered Narrative System](../../case-studies/noeme-layered-narrative-system.md)
 
 Noeme is built as a layered narrative.
 
@@ -16,13 +16,13 @@ This includes relationships, loss, survival, attachment, and personal conflict.
 
 Lucreta, Phil, Abigail, Sera, Kael, and Erit must work as people before they become part of a larger pattern.
 
-A fragment should function as a complete emotional experience before it becomes part of the [[Treasure_Key_Treasure|Treasure Key Treasure]] discovery loop.
+A fragment should function as a complete emotional experience before it becomes part of the [Treasure Key Treasure](Treasure_Key_Treasure.md) discovery loop.
 
 ## Layer 2: Structural Story
 
 The layer that creates connections between fragments.
 
-It includes recurring images, symptoms, visual motifs, outcomes, and [[Bridge_System|Bridge System]] elements.
+It includes recurring images, symptoms, visual motifs, outcomes, and [Bridge System](Bridge_System.md) elements.
 
 These patterns are not exposition.
 
@@ -36,7 +36,7 @@ The layer where the audience builds explanations.
 
 Readers form theories using the evidence available to them. Those theories help them navigate the story even when they do not yet understand the larger structure.
 
-Those theories are supported through [[Stretching_Instead_of_Replacing|Stretching Instead of Replacing]], allowing understanding to expand without discarding earlier conclusions.
+Those theories are supported through [Stretching Instead of Replacing](Stretching_Instead_of_Replacing.md), allowing understanding to expand without discarding earlier conclusions.
 
 ## Layer 4: Hidden System
 
@@ -50,17 +50,12 @@ The reader only needs to feel that the story is organized by something larger th
 
 ## Relationship to Unity
 
-[[Unity]] is the point where the layered structure becomes direct experience.
+[Unity](Unity.md) is the point where the layered structure becomes direct experience.
 
 The earlier layers build attachment, recognition, and interpretation. Unity is where those layers converge.
 
 ## Summary
 
-Noeme operates through four layers:
-
-> Character Story  
-> Structural Story  
-> Interpretation Story  
-> Hidden System
+Noeme operates through Character Story, Structural Story, Interpretation Story, and Hidden System.
 
 Each layer serves a different purpose, but all four work together to create a single experience.
