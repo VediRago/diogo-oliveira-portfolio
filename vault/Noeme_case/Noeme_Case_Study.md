@@ -24,27 +24,19 @@ The common failure points I wanted to avoid were:
 2. Withholding too much, which makes the audience feel manipulated.
 3. Adding twists that replace earlier meaning instead of deepening it.
 
-The solution is a [[Layered Narrative System]] where the audience receives partial answers that are meaningful when first discovered, then later become part of a larger structure.
+The solution is a [[Layered_Narrative_System|Layered Narrative System]] where the audience receives partial answers that are meaningful when first discovered, then later become part of a larger structure.
 
 ---
 
 ## Design Goal
 
-The reader should rarely feel:
-
-```text
-Everything I believed was wrong.
-```
-
-The intended feeling is:
+The intended reader reaction is:
 
 ```text
 What I believed was true, but incomplete.
 ```
 
-This lets the story reward attention without punishing the audience for forming early theories.
-
-A first answer should work. Later, the story should stretch that answer instead of deleting it. This is the core of [[Stretching Instead of Replacing]].
+A first answer should work. Later, the story should stretch that answer instead of deleting it. This is the core of [[Stretching_Instead_of_Replacing|Stretching Instead of Replacing]].
 
 ---
 
@@ -54,50 +46,27 @@ The emotional layer comes first.
 
 The reader should care about the characters before being asked to understand the structure connecting them.
 
-In **Fragments**, the system exists beneath the surface, but the audience experiences it through people:
+Lucreta, Phil, Abigail, Sera, Kael, and Erit must work as people before they become part of a larger pattern.
 
-- Lucreta
-- Phil
-- Abigail
-- Sera
-- Kael
-- Erit
-
-Each character arc must work emotionally before it becomes part of a larger pattern.
-
-A fragment must be valuable as a scene before it becomes part of the [[Treasure Key Treasure]] discovery loop.
+A fragment must be valuable as a scene before it becomes part of the [[Treasure_Key_Treasure|Treasure Key Treasure]] discovery loop.
 
 ---
 
 ## Narrative Architecture
 
-Noeme is built from multiple connected systems:
+The case study is organized around the systems that make the mystery feel fair.
 
-- [[Layered Narrative System]]
-- [[Bridge System]]
-- [[Visual Motif Bridges]]
-- [[Misdirection Bridges]]
-- [[Stretching Instead of Replacing]]
-- [[Treasure Key Treasure]]
-- [[Reader Reward]]
-- [[Mystery Debt]]
-- [[Emotional Architecture]]
-- [[Hidden System]]
-- [[Unity Observation — Audience Participation]]
+The [[Layered_Narrative_System|Layered Narrative System]] defines the architecture: character story, structural story, reader interpretation, and hidden system. It keeps the reader emotionally grounded while the larger pattern develops underneath.
 
-These pages explain the deeper method behind the case study without turning the main page into a wiki dump.
+The [[Bridge_System|Bridge System]] explains how meaning travels between fragments. [[Visual_Motif_Bridges|Visual Motif Bridges]] create recognition through repeated images. [[Misdirection_Bridges|Misdirection Bridges]] use real evidence to support incomplete interpretations.
 
----
+[[Reader_Reward|Reader Reward]] and [[Mystery_Debt|Mystery Debt]] control how long the audience can wait for answers. The story gives partial value before expanding the frame again.
 
-## How These Systems Work Together
+[[Emotional_Architecture|Emotional Architecture]] controls when pressure, rupture, overload, and stillness arrive. Mystery needs timing, not only structure.
 
-The [[Layered Narrative System]] separates what the reader experiences from what the story knows underneath.
+The [[Hidden_System|Hidden System]] keeps the connections coherent without turning the story into direct lore explanation.
 
-The [[Bridge System]] carries meaning between fragments. [[Visual Motif Bridges]] create recognition through repeated images. [[Misdirection Bridges]] give the audience real evidence while encouraging incomplete interpretations.
-
-[[Stretching Instead of Replacing]] keeps early theories meaningful. [[Treasure Key Treasure]] keeps discoveries valuable when first found and useful again later. [[Reader Reward]] prevents the mystery from asking for attention without giving value back.
-
-Together, these systems answer the central design problem: mystery can deepen without making the audience feel tricked.
+[[Unity|Unity]] is where the structure becomes direct emotional experience. [[Unity_Observation_Audience_Participation|Unity Observation: Audience Participation]] explains how the audience begins connecting the fragments before the story confirms how they connect.
 
 ---
 
