@@ -4,6 +4,12 @@ I build narrative systems through pressure, consequence, world logic, and player
 
 This portfolio focuses on process: how I approach narrative design problems, test methods, document decisions, and turn story ideas into game-facing structure.
 
+## Playable Prototype
+
+[Play the Layer Test Twine Prototype](https://cdn.jsdelivr.net/gh/VediRago/diogo-oliveira-portfolio@main/Layer%20Test%20Twine/index.html)
+
+This prototype tests layered reactivity through city state, faction pressure, local behavior, and NPC memory.
+
 ## About This Portfolio
 
 I began studying narrative design in May 2026 while working full-time outside the games industry.
@@ -21,8 +27,6 @@ From there, the main case studies show the process moving from world pressure, t
 [Building a Modular Narrative Method](case-studies/building-a-modular-narrative-method.md) explains the method used to move from pressure to experience, emotion, reason, behavior, atmosphere, history, and quest logic.
 
 [Testing The Method Through Layered Reactivity](case-studies/testing-the-method-through-layered-reactivity.md) tests the method through a Twine prototype built around city state, faction pressure, and local behavior.
-
-[Play the Layer Test Twine Prototype](https://cdn.jsdelivr.net/gh/VediRago/diogo-oliveira-portfolio@main/Layer%20Test%20Twine/index.html) — exported Twine test for the layered reactivity system.
 
 [Noeme — Layered Narrative System](case-studies/noeme-layered-narrative-system.md) applies the same design thinking to a long-form mystery structure built around delayed recognition, bridge systems, reader reward, and emotional pacing.
 
