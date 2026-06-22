@@ -14,7 +14,7 @@ To live by Regulatus is to believe that order makes a person worthy, that gratit
 
 [Viriatus](viriatus.md) does not create Regulatus. His life, victories, discipline, usefulness, and death are taken by [House Ventari](house-ventari.md) and turned into doctrine after he is killed.
 
-House Ventari hides his true arrival and sells his transformation. They do not publicly say, “We found him.” They create the historical message: “We formed him.”
+House Ventari hides his true arrival and sells his transformation. They do not publicly say, "We found him." They create the historical message: "We formed him."
 
 That story lets House Ventari claim authorship over Viriatus's public meaning. His victories become proof that Ventari discipline can produce what the old order could not.
 
@@ -22,11 +22,9 @@ After Viriatus's death, [Ermerus Ventari](ermerus-ventari.md) turns private betr
 
 Through Regulatus, loss becomes duty. Admiration becomes obedience. Hierarchy becomes protection. Discipline becomes moral worth.
 
-To question Regulatus becomes to dishonor Viriatus.
+To question Regulatus becomes to dishonor Viriatus. To obey Regulatus becomes to participate in his legacy.
 
-To obey Regulatus becomes to participate in his legacy.
-
-This is why Regulatus matters beyond politics. It controls what people do and shapes what they feel about what they do.
+This is why Regulatus matters beyond politics. It controls what people do and shapes what they feel about what they do. Not every person relates to it the same way — a loyal citizen may be a sincere believer, a rebel a rejector, a harmed clerk a damaged believer, and a House Ventari member a performer who understands exactly what the words conceal.
 
 By Erit's era, Regulatus helps explain why hierarchy can feel beautiful, why gratitude becomes social pressure, why records and chips can feel protective instead of invasive, and why rebellion can seem immature or dangerous to loyal citizens.
 
