@@ -24,6 +24,8 @@ From there, the main case studies show the process moving from world pressure, t
 
 [Noeme — Layered Narrative System](case-studies/noeme-layered-narrative-system.md) applies the same design thinking to a long-form mystery structure built around delayed recognition, bridge systems, reader reward, and emotional pacing.
 
+The [development diary](vault/development-diary/README.md) records process notes, dated decisions, and learning milestones behind the case studies.
+
 ## Project Link
 
 [NOEME](https://github.com/VediRago/Noeme) is a project shaped into a pilot, containing narrative methods, cosmology, screenplay, prose, blueprints, and a story bible.
