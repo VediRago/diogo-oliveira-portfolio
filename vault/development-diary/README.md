@@ -1,6 +1,6 @@
 # Development Diary
 
-This folder records the development of the Erit worldbuilding branch as it evolved from Fragments.
+This folder records the development of the Erit worldbuilding branch as it evolved from Noeme.
 
 The purpose of the diary is to preserve the design trail behind the world, methods, and prototypes shown throughout the portfolio.
 
