@@ -2,21 +2,20 @@
 
 # House Ventari
 
-House Ventari was one of the sixteen powerful houses of the old Roman-derived order. Influential but not dominant, the house sought to rise beyond the balance that kept the great houses in check.
+House Ventari was one of the sixteen great houses of the old Roman-derived order. Influential but never dominant, the house harbored ambitions that reached beyond the balance keeping the great houses in check.
 
-After discovering [Viriatus](viriatus.md), House Ventari hid his arrival, raised him, taught him, and shaped him into the force that would help overthrow the old order and conquer beyond it.
+When [Viriatus](viriatus.md) was discovered, House Ventari hid his origins, raised him, and shaped him into the force that would justify replacing the old order. Revealing the truth of his arrival would have made him impossible to control — so the house kept it, and built their rise around him instead. The goal was never moral. It was control.
 
-The house's history is shaped by [Ecalus Ventari](ecalus-ventari.md), [Ermerus Ventari](ermerus-ventari.md), [Rutare Ventari](rutare-ventari.md), [Ilunis Ventari](ilunis-ventari.md), and [Teresta Ventari](teresta-ventari.md), whose choices ultimately lead to the creation of [Regulatus](regulatus.md) and the beginning of the [AVD era](avd-calendar.md).
+They used the old order's visible failures — corruption, lost lands, hunger, broken protection — to frame their ambition as public rescue. Viriatus became the proof that Ventari discipline could produce what the old order could not.
 
-Although united publicly, each member carries different ambitions, wounds, and visions for what should come after Viriatus.
+The house's trajectory was defined by five members — [Ecalus](ecalus-ventari.md), [Ermerus](ermerus-ventari.md), [Rutare](rutare-ventari.md), [Ilunis](ilunis-ventari.md), and [Teresta](teresta-ventari.md). Though united publicly, each carried different ambitions, wounds, and visions for what should come after Viriatus. Their choices — and the murder they enabled — led to the creation of [Regulatus](regulatus.md) and the start of the [AVD era](avd-calendar.md).
+
+To the public, Regulatus became a system of order, duty, and belonging. To House Ventari, it was a tool — one that turned a family crime into civic doctrine.
 
 ## Erit Note
 
-The first letters of Ecalus, Rutare, Ilunis, and Teresta form **ERIT**.
-
-In the original [NOEME](https://github.com/VediRago/Noeme) story, Erit is the name of one of the fragments, given to her by her mother as an homage and as a word meant to show pride in the family.
-
-Erit means **to become**, derived from **Sera**, another fragment.
+The first letters of Ermerus, Rutare, Ilunis, and Teresta spell ERIT — the name of one of the fragments in the original [NOEME](https://github.com/VediRago/Noeme) story. Erit carries the sense of will be / shall be, mirroring Sera, another fragment, whose name means the same. The four founding lines are linked to Erit not just in name, but in meaning — what the house set in motion is what she will become.
 
 ---
+
 © Diogo Oliveira — June 2026
