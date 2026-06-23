@@ -12,7 +12,7 @@ The danger was familiar: explain too early and tension disappears; withhold too 
 
 I built Noeme around a [layered narrative system](../vault/Noeme_case/Layered_Narrative_System.md).
 
-The story gives the audience partial answers that work when first discovered. Later, those answers become part of a continuity structure, where early understanding expands instead of being discarded.
+The story gives the audience partial answers that work when first discovered. Later answers add pressure to early answers and expand their meaning.
 
 The intended feeling is:
 
@@ -94,7 +94,7 @@ This case study tests narrative architecture at the level of reader perception.
 
 It shows how layered storytelling, bridge systems, emotional pacing, and controlled mystery debt can support a story where recognition grows over time.
 
-The goal is not for every reader to decode everything. The goal is for different levels of attention to receive value.
+Different levels of attention should receive value.
 
 ## Support Files
 
