@@ -168,7 +168,7 @@ This case study tested whether the earlier worldbuilding method could become pla
 
 Case Study 03 tested that logic inside an interactive prototype.
 
-The result is a reactivity model where choices change context and numbers.
+The result is a reactivity model where choices move values that reshape context.
 
 ## Support Files
 
