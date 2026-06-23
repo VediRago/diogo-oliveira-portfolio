@@ -9,5 +9,5 @@ The piece demonstrates how background history can be transformed into character-
 ## Parts
 
 - [Part 01 — Rutare's Confession](./Part%2001%20%E2%80%94%20Rutare's%20Confession.md)
-- [Part 02 — The Mouth That Cost Him Everything](./Part%2002%20%E2%80%94%20The%20Mouth%20That%20Cost%20Him%20Everything.md)
-- [Part 03 — What Ecalus Had Been](./Part%2003%20%E2%80%94%20What%20Ecalus%20Had%20Been.md)
+- [Part 02 — What Ecalus Had Been](./Part%2002%20%E2%80%94%20What%20Ecalus%20Had%20Been.md)
+- [Part 03 — The Sentence I Gave Him](./Part%2003%20%E2%80%94%20The%20Sentence%20I%20Gave%20Him.md)
