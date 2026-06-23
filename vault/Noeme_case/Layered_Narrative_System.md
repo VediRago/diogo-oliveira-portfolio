@@ -24,9 +24,7 @@ The layer that creates connections between fragments.
 
 It includes recurring images, symptoms, visual motifs, outcomes, and bridge elements.
 
-These patterns are not exposition.
-
-They are evidence.
+These patterns work as evidence.
 
 Their purpose is to create recognition without stopping the story to explain itself.
 
@@ -43,8 +41,6 @@ Those theories are supported through [Stretching Instead of Replacing](Stretchin
 The deepest layer is the underlying structure that keeps the narrative coherent.
 
 It gives separated lives, recurring symptoms, and repeated visual traits a reason to connect.
-
-The reader does not need to know every mechanic.
 
 The reader needs enough evidence to feel that the story is organized by a real design logic.
 
