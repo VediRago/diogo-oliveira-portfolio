@@ -1,4 +1,4 @@
-# Chapter Three: What Ecalus Had Been
+# Chapter Two: What Ecalus Had Been
 
 I never knew the man Father used to be.
 
