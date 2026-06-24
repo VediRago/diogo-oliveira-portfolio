@@ -11,3 +11,4 @@ The piece demonstrates how background history can be transformed into character-
 - [Part 01 — Rutare's Confession](./Part%2001%20%E2%80%94%20Rutare's%20Confession.md)
 - [Part 02 — What Ecalus Had Been](./Part%2002%20%E2%80%94%20What%20Ecalus%20Had%20Been.md)
 - [Part 03 — The Sentence I Gave Him](./Part%2003%20%E2%80%94%20The%20Sentence%20I%20Gave%20Him.md)
+- [Part 05 — The Marriage That Became War](./Part%2005%20%E2%80%94%20The%20Marriage%20That%20Became%20War.md)
